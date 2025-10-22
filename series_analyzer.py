@@ -2,6 +2,8 @@
 
 def input_series():
 
+
+
     print("""                       Welcome 
     
          please enter your number atntion:
